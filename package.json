@@ -1,0 +1,12 @@
+{
+  "name": "com.zero.shaders",
+  "displayName": "Zero Shaders",
+  "version": "0.1.0",
+  "unity": "6000.0",
+  "description": "A collection of shaders created using shadergraph.",
+  "author": {
+    "name": "Zero",
+    "url": "https://github.com/TheNumZero"
+  },
+  "documentationUrl": "https://github.com/TheNumZero"
+}
